@@ -1,4 +1,5 @@
 # Rematch Hack — Ultimate Undetected Rematch Mod Menu 2026
+<img width="1900" height="300" alt="image" src="https://github.com/user-attachments/assets/3ddcd717-49ab-4504-8565-a2adbe2739e8" />
 
 **Rematch is the fast-paced, team-based competitive shooter from Sloclap (creators of Sifu), blending precision gunplay, unique hero abilities, destructible environments, and intense 5v5 objective-based matches. Master different roles (Assault, Support, Tank, Sniper), chain abilities, coordinate with teammates, control the map, push payloads, capture points, and dominate in ranked seasons, tournaments, and casual play. With deep skill expression, beautiful art direction, and constant updates — Rematch is the next big competitive shooter. Now fully unlocked with the most powerful mod menu featuring the real top-requested functions players are searching for in 2026: aimbot, wallhack, no recoil, infinite ammo, speed hack, teleport, one-hit kill, and more — dominate every match, climb leaderboards, and become the ultimate Rematch champion.**
 
